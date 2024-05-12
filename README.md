@@ -65,15 +65,6 @@ Terminal
 
 ---
 
-### Frontend
-
----
-### Installation
-```bash
-$ cd front-end
-$ npm i
-```
-
 ---
 ### Running
 ```bash

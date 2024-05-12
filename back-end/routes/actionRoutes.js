@@ -3,7 +3,7 @@ import {
   newAction,
   getDataAction,
   getFirstAction,
-} from "../controller/actionCtrl.js";
+} from "../controller/actionController.js";
 
 const actionRoutes = Router();
 

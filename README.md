@@ -6,15 +6,11 @@
     - [Installation](#installation)
     - [Config](#config)
     - [Database](#database)
-    - [Running](#running)
-3. [Frontend](#frontend)
-    - [Installation](#installation-1)
-    - [Running](#running-1)
-4. [API DOCS](#api-docs)
+3. [API DOCS](#api-docs)
 ### Clone
 
 ```bash
-$ git clone https://github.com/hhd182/LTUD_IOT.git
+$ git clone https://github.com/yalza/IOT_BU.git
 ```
 
 ### Backend
